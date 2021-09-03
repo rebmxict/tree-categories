@@ -1,0 +1,1 @@
+export const API_SERVER = 'https://aladdinbtest.azurewebsites.net/api/Articles';
